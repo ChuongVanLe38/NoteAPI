@@ -1,0 +1,44 @@
+{
+  "notes": [
+              {
+                "id": 1,
+                "title": "Nhập Title 1",
+        	      "content": "Nhập Content 1",
+        	      "priority": 1,
+        	      "createdAt": "2024-11-20T00:00:00.000Z",
+        	      "modifiedAt': "2024-11-20T00:00:00.000Z",
+        	      "tags": ["Ghi chú, Giới thiệu"].join(","),
+                "color": "#FF5733",
+              },
+              {
+                "id": 2,
+                "title": "Nhập Title 2",
+        	      "content": "Nhập Content 2",
+        	      "priority": 2,
+        	      "createdAt": "2024-11-20T00:00:00.000Z",
+        	      "modifiedAt': "2024-11-20T00:00:00.000Z",
+        	      "tags": ["Ghi chú, Giới thiệu"].join(","), 
+                "color": "#FF5733",
+              },
+              {
+                "id": 3,
+                "title": "Nhập Title 3",
+        	      "content": "Nhập Content 3",
+        	      "priority": 3,
+        	      "createdAt": "2024-11-20T00:00:00.000Z",
+        	      "modifiedAt': "2024-11-20T00:00:00.000Z",
+        	      "tags": ["Ghi chú, Giới thiệu"].join(","),
+                "color": "#FF5733",
+              },
+              {
+                "id": 4,
+                "title": "Nhập Title 4",
+        	      "content": "Nhập Content 4",
+        	      "priority": 4,
+        	      "createdAt": "2024-11-20T00:00:00.000Z",
+        	      "modifiedAt': "2024-11-20T00:00:00.000Z",
+        	      "tags": ["Ghi chú, Giới thiệu"].join(","),
+                "color": "#FF5733"
+              },
+            ]
+}

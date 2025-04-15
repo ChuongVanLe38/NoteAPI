@@ -2,42 +2,42 @@
   "notes": [
     {
       "id": 1,
-      "title": "Test Note",
-      "content": "This is a test note",
+      "title": "Nhập Title 1",
+      "content": "Nhập Content 1",
       "priority": 2,
       "createdAt": "2025-04-08T10:00:00.000Z",
       "modifiedAt": "2025-04-08T10:00:00.000Z",
-      "tags": ["test", "example"],
-      "color": "#FF0000"
+      "tags": ["Ghi chú", "Giới thiệu"],
+      "color": "#FF5733"
     },
     {
       "id": 2,
-      "title": "Grocery List",
-      "content": "Buy milk, eggs, and bread from the store.",
+      "title": "Nhập Title 2",
+      "content": "Nhập Content 2",
       "priority": 1,
       "createdAt": "2025-04-09T08:30:00.000Z",
       "modifiedAt": "2025-04-09T08:30:00.000Z",
-      "tags": ["shopping", "urgent"],
+      "tags": ["Ghi chú", "Giới thiệu"],
       "color": "#00FF00"
     },
     {
       "id": 3,
-      "title": "Meeting Notes",
-      "content": "Discuss project timeline and resource allocation with the team.",
+      "title": "Nhập Title 3",
+      "content": "Nhập Content 3",
       "priority": 3,
       "createdAt": "2025-04-10T14:15:00.000Z",
       "modifiedAt": "2025-04-10T14:15:00.000Z",
-      "tags": ["work", "meeting"],
+      "tags": ["Ghi chú", "Giới thiệu"],
       "color": "#0000FF"
     },
     {
       "id": 4,
-      "title": "Personal Reminder",
-      "content": "Call mom at 6 PM today.",
+      "title": "Nhập Title 4",
+      "content": "Nhập Content 3",
       "priority": 2,
       "createdAt": "2025-04-11T09:00:00.000Z",
       "modifiedAt": "2025-04-11T09:00:00.000Z",
-      "tags": ["personal"],
+      "tags": ["Ghi chú", "Giới thiệu"],
       "color": "#FFFF00"
     }
   ]

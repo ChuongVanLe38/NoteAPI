@@ -8,7 +8,7 @@
       "createdAt": "2025-04-08T10:00:00.000Z",
       "modifiedAt": "2025-04-08T10:00:00.000Z",
       "tags": ["Ghi chú", "Giới thiệu"],
-      "color": "0xFF5733"
+      "color": "FF5733"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "createdAt": "2025-04-09T08:30:00.000Z",
       "modifiedAt": "2025-04-09T08:30:00.000Z",
       "tags": ["Ghi chú", "Giới thiệu"],
-      "color": "0x00FF00"
+      "color": "00FF00"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "createdAt": "2025-04-10T14:15:00.000Z",
       "modifiedAt": "2025-04-10T14:15:00.000Z",
       "tags": ["Ghi chú", "Giới thiệu"],
-      "color": "0x0000FF"
+      "color": "0000FF"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "createdAt": "2025-04-11T09:00:00.000Z",
       "modifiedAt": "2025-04-11T09:00:00.000Z",
       "tags": ["Ghi chú", "Giới thiệu"],
-      "color": "0xFFFF00"
+      "color": "FFFF00"
     }
   ]
 }
